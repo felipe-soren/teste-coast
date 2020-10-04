@@ -11,10 +11,8 @@ function ModelPage() {
 
   console.log(id);
 
-  const glb =
-    "https://cors-anywhere.herokuapp.com/https://dashboardccoast.com/androidModels/plant.glb";
-  const usdz =
-    "https://cors-anywhere.herokuapp.com/https://dashboardccoast.com/iosModels/plant.usdz";
+  const glb = "https://dashboardccoast.com/androidModels/plant.glb";
+  const usdz = "https://dashboardccoast.com/iosModels/plant.usdz";
 
   return (
     <Container>
@@ -24,11 +22,10 @@ function ModelPage() {
         usdz={usdz}
         popup={false}
       />
-      <ARLink glb={glb} usdz={usdz}>
-        View in 3D
-      </ARLink>
       <QRCodeContainer>
-        <QRCode value="http://192.168.0.10:3000/model/165651456" size={100} />
+        <ARLink glb={glb} usdz={usdz}>
+          View in 3D
+        </ARLink>
       </QRCodeContainer>
     </Container>
   );

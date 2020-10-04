@@ -12,7 +12,7 @@ export const QRCodeContainer = styled.div`
   width: 100px;
   height: 100px;
 
-  @media only screen and (max-width: 800px) {
+  /* @media only screen and (max-width: 800px) {
     display: none;
-  }
+  } */
 `;
