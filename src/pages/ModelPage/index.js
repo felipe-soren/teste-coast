@@ -18,12 +18,12 @@ function ModelPage() {
 
   return (
     <Container>
-      <ModelViewer
+      {/* <ModelViewer
         glb={glb}
         style={{ width: "100%", height: "100vh", outline: "none" }}
         usdz={usdz}
         popup={false}
-      />
+      /> */}
       <ARLink glb={glb} usdz={usdz}>
         View in 3D
       </ARLink>
