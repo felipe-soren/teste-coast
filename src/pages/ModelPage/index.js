@@ -11,17 +11,19 @@ function ModelPage() {
 
   console.log(id);
 
-  const glb = "https://dashboardccoast.com/androidModels/plant.glb";
-  const usdz = "https://dashboardccoast.com/iosModels/plant.usdz";
+  const glb =
+    "https://cors-anywhere.herokuapp.com/https://dashboardccoast.com/androidModels/plant.glb";
+  const usdz =
+    "https://cors-anywhere.herokuapp.com/https://dashboardccoast.com/iosModels/plant.usdz";
 
   return (
     <Container>
-      {/* <ModelViewer
+      <ModelViewer
         glb={glb}
         style={{ width: "100%", height: "100vh", outline: "none" }}
         usdz={usdz}
         popup={false}
-      /> */}
+      />
       <ARLink glb={glb} usdz={usdz}>
         View in 3D
       </ARLink>
