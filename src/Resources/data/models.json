@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "GLB": {
+      "link": "https://dashboardccoast.com/androidModels/Pinza_02.glb",
+      "name": "Pinza_02.glb"
+    },
+    "USDZ": {
+      "link": "https://dashboardccoast.com/androidModels/Pinza_02.glb",
+      "name": "Pinza_02.glb"
+    },
+    "AR": true,
+    "folder": {
+      "id": 1,
+      "name": "folder 1"
+    }
+  },
+  {
+    "id": 2,
+    "GLB": {
+      "link": "https://dashboardccoast.com/androidModels/Pinza_02.glb",
+      "name": "Pinza_02.glb"
+    },
+    "USDZ": {
+      "link": "https://dashboardccoast.com/androidModels/Pinza_02.glb",
+      "name": "Pinza_02.glb"
+    },
+    "AR": true,
+    "folder": {
+      "id": 1,
+      "name": "folder 1"
+    }
+  },
+  {
+    "id": 3,
+    "GLB": {
+      "link": "https://dashboardccoast.com/androidModels/Pinza_02.glb",
+      "name": "Pinza_02.glb"
+    },
+    "USDZ": {
+      "link": "https://dashboardccoast.com/androidModels/Pinza_02.glb",
+      "name": "Pinza_02.glb"
+    },
+    "AR": true,
+    "folder": {
+      "id": 1,
+      "name": "folder 1"
+    }
+  },
+  {
+    "id": 4,
+    "GLB": {
+      "link": "https://dashboardccoast.com/androidModels/Pinza_02.glb",
+      "name": "Pinza_02.glb"
+    },
+    "USDZ": {
+      "link": "https://dashboardccoast.com/androidModels/Pinza_02.glb",
+      "name": "Pinza_02.glb"
+    },
+    "AR": true,
+    "folder": {
+      "id": 1,
+      "name": "folder 1"
+    }
+  },
+  {
+    "id": 5,
+    "GLB": {
+      "link": "https://dashboardccoast.com/androidModels/Pinza_02.glb",
+      "name": "Pinza_02.glb"
+    },
+    "USDZ": {
+      "link": "https://dashboardccoast.com/androidModels/Pinza_02.glb",
+      "name": "Pinza_02.glb"
+    },
+    "AR": false,
+    "folder": {
+      "id": 1,
+      "name": "folder 1"
+    }
+  },
+  {
+    "id": 6,
+    "GLB": {
+      "link": "https://dashboardccoast.com/androidModels/Pinza_02.glb",
+      "name": "Pinza_02.glb"
+    },
+    "USDZ": {
+      "link": "https://dashboardccoast.com/androidModels/Pinza_02.glb",
+      "name": "Pinza_02.glb"
+    },
+    "AR": true,
+    "folder": {
+      "id": 1,
+      "name": "folder 1"
+    }
+  },
+  {
+    "id": 7,
+    "GLB": {
+      "link": "https://dashboardccoast.com/androidModels/Pinza_02.glb",
+      "name": "Pinza_02.glb"
+    },
+    "USDZ": {
+      "link": "https://dashboardccoast.com/androidModels/Pinza_02.glb",
+      "name": "Pinza_02.glb"
+    },
+    "AR": true,
+    "folder": {
+      "id": 1,
+      "name": "folder 1"
+    }
+  }
+]
