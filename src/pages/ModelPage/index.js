@@ -11,8 +11,10 @@ function ModelPage() {
 
   console.log(id);
 
-  const glb = "https://dashboardccoast.com/androidModels/plant.glb";
-  const usdz = "https://dashboardccoast.com/iosModels/plant.usdz";
+  const glb =
+    "https://cors-anywhere.herokuapp.com/https://dashboardccoast.com/androidModels/plant.glb";
+  const usdz =
+    "https://cors-anywhere.herokuapp.com/https://dashboardccoast.com/iosModels/plant.usdz";
 
   return (
     <Container>
