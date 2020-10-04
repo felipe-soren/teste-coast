@@ -11,8 +11,8 @@ function ModelPage() {
 
   console.log(id);
 
-  const glb = "https://dashboardccoast.com/androidModels/Zara_armchair_1.glb";
-  const usdz = "https://dashboardccoast.com/iosModels/Zara_armchair_1.usdz";
+  const glb = "https://dashboardccoast.com/androidModels/plant.glb";
+  const usdz = "https://dashboardccoast.com/iosModels/plant.usdz";
 
   return (
     <Container>
