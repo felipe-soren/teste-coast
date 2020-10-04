@@ -11,10 +11,8 @@ function ModelPage() {
 
   console.log(id);
 
-  const glb =
-    "https://cors-anywhere.herokuapp.com/https://dashboardccoast.com/androidModels/Zara_armchair_1.glb";
-  const usdz =
-    "https://cors-anywhere.herokuapp.com/https://dashboardccoast.com/iosModels/Zara_armchair_1.usdz";
+  const glb = "https://dashboardccoast.com/androidModels/Zara_armchair_1.glb";
+  const usdz = "https://dashboardccoast.com/iosModels/Zara_armchair_1.usdz";
 
   return (
     <Container>
